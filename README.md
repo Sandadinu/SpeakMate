@@ -12,7 +12,7 @@ SpeakMate is a lightweight, responsive web app built to help students, public sp
 
 ## 🚀 Live Demo
 
-👉 [Click here to use SpeakMate](https://Sandadinu.github.io/speakmate)
+👉 [Click here to use SpeakMate](https://Sandadinu.github.io/SpeakMate)
 
 ## 📂 Tech Stack
 
@@ -22,7 +22,7 @@ SpeakMate is a lightweight, responsive web app built to help students, public sp
 
 ## 📸 Preview
 
-[![SpeakMate Screenshot](preview.png)](https://Sandadinu.github.io/speakmate) 
+[![SpeakMate Screenshot](preview.png)](https://Sandadinu.github.io/SpeakMate) 
 
 ## 🎯 Use Case
 
