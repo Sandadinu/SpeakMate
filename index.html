@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SpeakMate</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>🎤 SpeakMate</h1>
+        <p>Your personal impromptu speaking trainer</p>
+
+        <div class="card">
+            <h2 id="topic">Click below to get a topic!</h2>
+            <button onclick="generateTopic()">🎲 New Topic</button>
+            <button onclick="startTimer()">⏱️ Start Timer</button>
+            <div id="timer">02:00</div>
+        </div>
+
+        <textarea placeholder="Write your speech notes here......"></textarea>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
