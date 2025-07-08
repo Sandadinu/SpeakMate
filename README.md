@@ -22,8 +22,7 @@ SpeakMate is a lightweight, responsive web app built to help students, public sp
 
 ## 📸 Preview
 
-![SpeakMate Screenshot](preview.png)  
-*(You can take a screenshot of your app and name it `preview.png` in your repo)*
+[![SpeakMate Screenshot](preview.png)](https://Sandadinu.github.io/speakmate) 
 
 ## 🎯 Use Case
 
